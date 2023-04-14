@@ -1,0 +1,1 @@
+/Users/jkh/Downloads/study/rust/learn_crate/target/debug/learn_crate: /Users/jkh/Downloads/study/rust/learn_crate/mylib/src/factory.rs /Users/jkh/Downloads/study/rust/learn_crate/mylib/src/lib.rs /Users/jkh/Downloads/study/rust/learn_crate/src/main.rs
